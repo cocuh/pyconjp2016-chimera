@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<g font-family="monospace" font-size="14px">
+<text x="0" y="14" xml:space="preserve"><tspan fill="#BC7A00">#</tspan><tspan fill="#BC7A00">include</tspan><tspan fill="#408080" font-style="italic">&lt;Python.h&gt;</tspan><tspan fill="#BC7A00"></tspan></text>
+<text x="0" y="33" xml:space="preserve"><tspan fill="#BC7A00"></tspan></text>
+<text x="0" y="52" xml:space="preserve"><tspan fill="#008000" font-weight="bold">static</tspan>&#160;PyObject&#160;<tspan fill="#666666">*</tspan></text>
+<text x="0" y="71" xml:space="preserve"><tspan fill="#0000FF">hello</tspan>(PyObject&#160;<tspan fill="#666666">*</tspan>self,&#160;PyObject&#160;<tspan fill="#666666">*</tspan>args)</text>
+<text x="0" y="90" xml:space="preserve">{</text>
+<text x="0" y="109" xml:space="preserve">&#160;&#160;&#160;&#160;<tspan fill="#008000" font-weight="bold">const</tspan>&#160;<tspan fill="#B00040">char</tspan>&#160;<tspan fill="#666666">*</tspan>name;</text>
+<text x="0" y="128" xml:space="preserve">&#160;&#160;&#160;&#160;<tspan fill="#008000" font-weight="bold">if</tspan>&#160;(<tspan fill="#666666">!</tspan>PyArg_ParseTuple(args,&#160;<tspan fill="#BA2121">&quot;</tspan><tspan fill="#BA2121">s</tspan><tspan fill="#BA2121">&quot;</tspan>,&#160;<tspan fill="#666666">&amp;</tspan>name)){<tspan fill="#008000" font-weight="bold">return</tspan>&#160;<tspan fill="#008000">NULL</tspan>;}</text>
+<text x="0" y="147" xml:space="preserve"></text>
+<text x="0" y="166" xml:space="preserve">&#160;&#160;&#160;&#160;printf(<tspan fill="#BA2121">&quot;</tspan><tspan fill="#BA2121">Hello&#160;%s!</tspan><tspan fill="#BB6622" font-weight="bold">\n</tspan><tspan fill="#BA2121">&quot;</tspan>,&#160;name);</text>
+<text x="0" y="185" xml:space="preserve">&#160;&#160;&#160;&#160;Py_RETURN_NONE;</text>
+<text x="0" y="204" xml:space="preserve">}</text>
+<text x="0" y="223" xml:space="preserve"></text>
+<text x="0" y="242" xml:space="preserve"><tspan fill="#008000" font-weight="bold">static</tspan>&#160;PyMethodDef&#160;methods[]&#160;<tspan fill="#666666">=</tspan>&#160;{</text>
+<text x="0" y="261" xml:space="preserve">&#160;&#160;&#160;&#160;{<tspan fill="#BA2121">&quot;</tspan><tspan fill="#BA2121">hello</tspan><tspan fill="#BA2121">&quot;</tspan>,&#160;(PyCFunction)hello,&#160;METH_VARARGS,&#160;<tspan fill="#BA2121">&quot;</tspan><tspan fill="#BA2121">hello&#160;function</tspan><tspan fill="#BB6622" font-weight="bold">\n</tspan><tspan fill="#BA2121">&quot;</tspan>},</text>
+<text x="0" y="280" xml:space="preserve">};</text>
+<text x="0" y="299" xml:space="preserve"></text>
+<text x="0" y="318" xml:space="preserve"><tspan fill="#008000" font-weight="bold">static</tspan>&#160;<tspan fill="#008000" font-weight="bold">struct</tspan>&#160;PyModuleDef&#160;moduledef&#160;<tspan fill="#666666">=</tspan>&#160;{PyModuleDef_HEAD_INIT,<tspan fill="#BA2121">&quot;</tspan><tspan fill="#BA2121">hello</tspan><tspan fill="#BA2121">&quot;</tspan>,&#160;<tspan fill="#008000">NULL</tspan>,&#160;<tspan fill="#666666">0</tspan>,&#160;methods,&#160;<tspan fill="#008000">NULL</tspan>,&#160;<tspan fill="#008000">NULL</tspan>,&#160;<tspan fill="#008000">NULL</tspan>,&#160;<tspan fill="#008000">NULL</tspan>,};</text>
+<text x="0" y="337" xml:space="preserve"></text>
+<text x="0" y="356" xml:space="preserve">PyMODINIT_FUNC</text>
+<text x="0" y="375" xml:space="preserve"><tspan fill="#0000FF">PyInit_hello</tspan>(<tspan fill="#B00040">void</tspan>)</text>
+<text x="0" y="394" xml:space="preserve">{</text>
+<text x="0" y="413" xml:space="preserve"><tspan fill="#BC7A00">#</tspan><tspan fill="#BC7A00">if&#160;PY_MAJOR_VERSION&#160;&gt;=&#160;3</tspan><tspan fill="#BC7A00"></tspan></text>
+<text x="0" y="432" xml:space="preserve"><tspan fill="#BC7A00"></tspan>&#160;&#160;&#160;&#160;PyObject&#160;<tspan fill="#666666">*</tspan>module&#160;<tspan fill="#666666">=</tspan>&#160;PyModule_Create(<tspan fill="#666666">&amp;</tspan>moduledef);</text>
+<text x="0" y="451" xml:space="preserve"><tspan fill="#BC7A00">#</tspan><tspan fill="#BC7A00">else</tspan><tspan fill="#BC7A00"></tspan></text>
+<text x="0" y="470" xml:space="preserve"><tspan fill="#BC7A00"></tspan>&#160;&#160;&#160;&#160;PyObject&#160;<tspan fill="#666666">*</tspan>module&#160;<tspan fill="#666666">=</tspan>&#160;Py_initModule(<tspan fill="#BA2121">&quot;</tspan><tspan fill="#BA2121">hello</tspan><tspan fill="#BA2121">&quot;</tspan>,&#160;methods);</text>
+<text x="0" y="489" xml:space="preserve"><tspan fill="#BC7A00">#</tspan><tspan fill="#BC7A00">endif</tspan><tspan fill="#BC7A00"></tspan></text>
+<text x="0" y="508" xml:space="preserve"><tspan fill="#BC7A00"></tspan>&#160;&#160;&#160;&#160;<tspan fill="#008000" font-weight="bold">return</tspan>&#160;module;</text>
+<text x="0" y="527" xml:space="preserve">}</text>
+<text x="0" y="546" xml:space="preserve"></text></g></svg>

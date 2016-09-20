@@ -26,36 +26,36 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1266568"
-     inkscape:cx="398.30109"
-     inkscape:cy="305.24073"
+     inkscape:zoom="0.79666665"
+     inkscape:cx="186.05007"
+     inkscape:cy="362.02631"
      inkscape:document-units="px"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer16"
      showgrid="true"
      units="px"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-text-baseline="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-width="1918"
+     inkscape:window-height="1173"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:snap-intersection-paths="true"
      inkscape:object-nodes="true"
      inkscape:snap-global="true"
-     inkscape:snap-nodes="false">
+     inkscape:snap-nodes="true">
     <inkscape:grid
        id="grid3380"
        type="xygrid" />
     <sodipodi:guide
        id="guide3382"
        orientation="0,1"
-       position="539.99999,300.00001" />
+       position="99.999999,300.00001" />
     <sodipodi:guide
        id="guide3384"
        orientation="1,0"
-       position="399.99999,410.00001" />
+       position="399.99999,315.00001" />
     <sodipodi:guide
        id="guide3386"
        orientation="0,1"
@@ -71,7 +71,7 @@
     <sodipodi:guide
        id="guide6297"
        orientation="1,0"
-       position="150,520.00002" />
+       position="150,480.00002" />
     <sodipodi:guide
        id="guide6339"
        orientation="1,0"
@@ -79,6 +79,126 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 300.00001 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="799.99999 : 300.00001 : 1"
+       inkscape:persp3d-origin="400 : 200.00001 : 1"
+       id="perspective14472" />
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker13785"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondMend">
+      <path
+         transform="scale(0.4) translate(-6.5,0)"
+         style="fill-rule:evenodd;stroke:#003380;stroke-width:1pt;stroke-opacity:1;fill:#003380;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path13787" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondMend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DiamondMend"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path6650"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#005500;stroke-width:1pt;stroke-opacity:1;fill:#2d5016;fill-opacity:1"
+         transform="scale(0.4) translate(-6.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyDiamondMend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyDiamondMend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6677"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;fill:#2d5016;stroke:#005500;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         transform="scale(0.4) translate(-6.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6614"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#005500;stroke-width:1pt;stroke-opacity:1;fill:#2d5016;fill-opacity:1"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6617"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#005500;stroke-width:1pt;stroke-opacity:1;fill:#2d5016;fill-opacity:1"
+         transform="scale(0.2) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="SquareS"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6626"
+         d="M -5.0,-5.0 L -5.0,5.0 L 5.0,5.0 L 5.0,-5.0 L -5.0,-5.0 z "
+         style="fill-rule:evenodd;stroke:#005500;stroke-width:1pt;stroke-opacity:1;fill:#2d5016;fill-opacity:1"
+         transform="scale(0.2)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6611"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#005500;stroke-width:1pt;stroke-opacity:1;fill:#2d5016;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker7034"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#005500;stroke-width:1pt;stroke-opacity:1;fill:#2d5016;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path7036" />
+    </marker>
     <marker
        inkscape:isstock="true"
        style="overflow:visible"
@@ -958,7 +1078,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1378,7 +1498,7 @@
            x="150"
            y="407.57385"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:150%;font-family:Koruri;-inkscape-font-specification:Koruri;fill:#1a1a1a"
-           id="tspan6560">オタク機械学習とか深層学習とかグレブナー基底も好き</tspan><tspan
+           id="tspan6560">オタク機械学習とか深層学習とかもやってて専門迷子</tspan><tspan
            sodipodi:role="line"
            x="150"
            y="445.07385"
@@ -2812,14 +2932,14 @@
        sodipodi:linespacing="125%"
        id="text5780"
        y="330"
-       x="545"
+       x="420"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#338000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;fill:#338000;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold';fill:#338000;fill-opacity:1"
          y="330"
-         x="545"
+         x="420"
          id="tspan5782"
-         sodipodi:role="line">本トークの主な対象</tspan></text>
+         sodipodi:role="line">本トークで主に取り上げる</tspan></text>
     <g
        id="g6867"
        transform="translate(0,-34.456787)">
@@ -2865,137 +2985,99 @@
   </g>
   <g
      style="display:none"
-     inkscape:label="chap2"
+     inkscape:label="c+python 1"
      id="g13033"
      inkscape:groupmode="layer">
     <text
        id="text13035"
-       y="280"
+       y="290"
        x="400"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Light';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#aaccff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61299992;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:Koruri;-inkscape-font-specification:'Koruri Bold';text-align:center;text-anchor:middle;fill:#1a1a1a"
-         y="280"
+         y="290"
          x="400"
          sodipodi:role="line"
-         id="tspan6241">事例紹介</tspan></text>
+         id="tspan6241">CとPythonを組み合わせる方法</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Light';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#aaccff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61299992;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="480"
+       y="490"
+       id="text10208"
+       ns1:effectIn="name:appear;order:1;length:800"><tspan
+         id="tspan10210"
+         sodipodi:role="line"
+         x="480"
+         y="490"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Koruri;-inkscape-font-specification:'Koruri Bold';text-align:start;text-anchor:start;fill:#1a1a1a">Q.なぜC?</tspan><tspan
+         sodipodi:role="line"
+         x="480"
+         y="527.5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Koruri;-inkscape-font-specification:'Koruri Bold';text-align:start;text-anchor:start;fill:#1a1a1a"
+         id="tspan10214">A.一番相性がいいから</tspan><tspan
+         sodipodi:role="line"
+         x="480"
+         y="565"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Koruri;-inkscape-font-specification:'Koruri Bold';text-align:start;text-anchor:start;fill:#1a1a1a"
+         id="tspan10212" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g5761"
+     inkscape:label="c+python 2"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Light';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#aaccff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61299992;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="50"
+       y="100"
+       id="text5763"><tspan
+         id="tspan5765"
+         sodipodi:role="line"
+         x="50"
+         y="100"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Koruri;-inkscape-font-specification:'Koruri Bold';text-align:start;text-anchor:start;fill:#1a1a1a">CとPythonを組み合わせる方法</tspan></text>
+    <text
+       sodipodi:linespacing="135%"
+       id="text5767"
+       y="160"
+       x="100"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold';fill:#aa0000"
+         y="160"
+         x="100"
+         sodipodi:role="line"
+         id="tspan5779">1. ctypes:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#0044aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="100"
+       y="400"
+       id="text5802"
+       sodipodi:linespacing="135%"><tspan
+         id="tspan5806"
+         sodipodi:role="line"
+         x="100"
+         y="400"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold';fill:#0044aa">3. C Extension</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="100"
+       y="279.70703"
+       id="text5808"
+       sodipodi:linespacing="135%"><tspan
+         sodipodi:role="line"
+         x="100"
+         y="279.70703"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold';fill:#005500"
+         id="tspan5822">2. Cython:</tspan></text>
   </g>
   <g
      style="display:none"
-     inkscape:label="example 1"
-     id="layer12"
-     inkscape:groupmode="layer">
-    <text
-       id="text12623"
-       y="95"
-       x="30"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61299992;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:start;text-anchor:start"
-         y="95"
-         x="30"
-         id="tspan12625"
-         sodipodi:role="line"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'"
-   id="tspan12629">その1:</tspan> Python + Cython + C++</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text12643"
-       y="145"
-       x="50"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         y="145"
-         x="50"
-         sodipodi:role="line"
-         id="tspan12645"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'"
-   id="tspan12725">目的:</tspan>SATソルバーを拡張して</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         y="176.25"
-         x="50"
-         sodipodi:role="line"
-         id="tspan7246">　　　　機械学習アルゴリズムのプライバシーリスク評価をしたい</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="100"
-       y="430"
-       id="text12661"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="100"
-         y="430"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'"
-         id="tspan7063">C++:</tspan><tspan
-         sodipodi:role="line"
-         x="100"
-         y="461.25"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         id="tspan7256">　- 既存のソルバーの実装はC++であることが多い</tspan><tspan
-         sodipodi:role="line"
-         x="100"
-         y="492.5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         id="tspan7248">　- 既存のソルバー(MiniSAT)を拡張が必要</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="100"
-       y="280"
-       id="text12669"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan12671"
-         x="100"
-         y="280"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'">Python:</tspan><tspan
-         id="tspan12675"
-         sodipodi:role="line"
-         x="100"
-         y="311.25"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa">　- これまでの実験コードがすべてPython</tspan><tspan
-         sodipodi:role="line"
-         x="100"
-         y="342.5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         id="tspan12721">　- Jupyter notebookで実験している</tspan><tspan
-         sodipodi:role="line"
-         x="100"
-         y="373.75"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         id="tspan12713">　- 実行速度がCと比べると非常に遅い</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text12727"
-       y="240"
-       x="50"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       xml:space="preserve"><tspan
-         id="tspan12735"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold';text-align:start;text-anchor:start"
-         y="240"
-         x="50"
-         sodipodi:role="line">背景</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="400"
-       y="560"
-       id="text7005"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan7007"
-         sodipodi:role="line"
-         x="400"
-         y="560"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:center;text-anchor:middle"><tspan
-           id="tspan7009"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold';text-align:center;text-anchor:middle">PythonからC++を呼び出せるようにしよう</tspan></tspan></text>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="example 1 copy copy"
+     inkscape:label="ctypes"
      id="g7113"
      inkscape:groupmode="layer">
     <text
@@ -3045,7 +3127,7 @@
          sodipodi:role="line"
          x="100"
          y="328.75"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa">　- Cのbuildとかは管理してくれない</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa">　- build, pathの管理はしてくれない</tspan></text>
     <a
        transform="translate(0,40)"
        id="a7232"
@@ -3143,8 +3225,317 @@
     </g>
   </g>
   <g
+     inkscape:label="cython"
+     id="layer14"
+     inkscape:groupmode="layer"
+     style="display:none">
+    <g
+       id="g14170"
+       style="display:inline"
+       transform="matrix(0.89839511,0,0,0.89839511,411.30756,142.64453)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text14172"
+         y="384.01675"
+         x="400.06958"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         xml:space="preserve"><tspan
+           id="tspan14176"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:center;text-anchor:middle"
+           y="384.01675"
+           x="400.06958"
+           sodipodi:role="line" /></text>
+      <g
+         transform="matrix(0.47698861,0,0,0.47698861,188.8261,379.21258)"
+         id="g14178">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 110.46717,132.28575 a 48.948285,8.6066913 0 1 1 -97.896571,0 48.948285,8.6066913 0 1 1 97.896571,0 z"
+           transform="matrix(0.73406,0,0,0.809524,58.972752,63.796144)"
+           id="path14180"
+           style="opacity:0.44382019;fill:url(#radialGradient15780);fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <g
+           transform="matrix(1.1081583,0,0,1.1081583,-5.641244,-12.285301)"
+           id="g14182">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 103.60839,43.38407 c -4.583656,0.0213 -8.960942,0.412218 -12.812503,1.09375 -11.346216,2.004504 -13.406249,6.200102 -13.40625,13.9375 l 0,10.21875 26.812503,0 0,3.40625 -26.812503,0 -10.0625,0 c -7.792459,0 -14.615759,4.683717 -16.75,13.59375 -2.46182,10.212966 -2.571015,16.58602 0,27.25 1.905928,7.93785 6.457543,13.59375 14.25,13.59375 l 9.21875,0 0,-12.25 c 0,-8.8499 7.657144,-16.656248 16.75,-16.65625 l 26.781253,0 c 7.45495,0 13.40625,-6.138164 13.40625,-13.625 l 0,-25.53125 c 0,-7.266339 -6.12998,-12.724778 -13.40625,-13.9375 -4.60599,-0.766725 -9.3851,-1.115048 -13.96875,-1.09375 z m -14.500003,8.21875 c 2.769547,0 5.03125,2.298646 5.03125,5.125 -2e-6,2.816336 -2.261703,5.09375 -5.03125,5.09375 -2.779476,-1e-6 -5.03125,-2.277415 -5.03125,-5.09375 -10e-7,-2.826353 2.251774,-5.125 5.03125,-5.125 z"
+             id="path14184"
+             style="fill:url(#linearGradient15782);fill-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 134.32714,72.04032 0,11.90625 c 0,9.230755 -7.8259,17 -16.75,17 l -26.781253,0 c -7.335833,0 -13.406249,6.27848 -13.40625,13.625 l 0,25.53125 c 0,7.26634 6.318588,11.54032 13.40625,13.625 8.487331,2.49561 16.626233,2.94663 26.781253,0 6.75015,-1.95439 13.40625,-5.88761 13.40625,-13.625 l 0,-10.21875 -26.78125,0 0,-3.40625 26.78125,0 13.40625,0 c 7.79246,0 10.69625,-5.43541 13.40624,-13.59375 2.79933,-8.39889 2.68022,-16.475776 0,-27.25 -1.92578,-7.757441 -5.60387,-13.59375 -13.40624,-13.59375 l -10.0625,0 z m -15.0625,64.65625 c 2.77948,0 5.03125,2.27742 5.03125,5.09375 -1e-5,2.82635 -2.25178,5.125 -5.03125,5.125 -2.76955,0 -5.03125,-2.29865 -5.03125,-5.125 0,-2.81633 2.26169,-5.09375 5.03125,-5.09375 z"
+             id="path14186"
+             style="fill:url(#linearGradient15784);fill-opacity:1" />
+        </g>
+        <g
+           transform="translate(32.006378,36.786794)"
+           id="g14188">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 210.63122,83.265743 c 0,9.92254 -0.9942,16.794237 -2.9826,20.615097 -1.99816,3.82086 -5.79952,6.8717 -11.41385,9.14277 -4.55189,1.79346 -9.47417,2.76817 -14.75709,2.93387 l -1.47181,-5.61432 c 5.37064,-0.73103 9.15252,-1.46207 11.34561,-2.1931 4.31796,-1.46206 7.28108,-3.70389 8.90884,-6.706 1.30611,-2.446517 1.94942,-7.115367 1.94942,-14.026057 l 0,-2.3198 c -6.09193,2.76817 -12.47628,4.14251 -19.15303,4.14251 -4.38619,0 -8.25579,-1.37434 -11.58929,-4.14251 -3.74289,-3.01186 -5.61433,-6.83272 -5.61433,-11.46258 l 0,-37.07793 8.90884,-3.05084 0,37.3216 c 0,3.98656 1.28662,7.0569 3.85985,9.21101 2.57323,2.1541 5.90674,3.18729 9.99077,3.10932 4.08403,-0.08773 8.46047,-1.66676 13.10983,-4.75658 l 0,-43.54025 8.90884,0 0,48.41379 z"
+             id="path14190"
+             style="fill:#646464;fill-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 245.40884,88.997033 c -1.06243,0.08772 -2.03714,0.12671 -2.93387,0.12671 -5.03925,0 -8.96733,-1.19889 -11.77449,-3.60642 -2.79742,-2.40753 -4.20099,-5.73129 -4.20099,-9.97127 l 0,-35.08953 -6.10168,0 0,-5.60457 6.10168,0 0,-14.88381 8.89909,-3.16781 0,18.05162 10.01026,0 0,5.60457 -10.01026,0 0,34.84585 c 0,3.34325 0.89673,5.71179 2.6902,7.09588 1.54004,1.14041 3.98656,1.79347 7.32006,1.95917 l 0,4.63961 z"
+             id="path14192"
+             style="fill:#646464;fill-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 299.34923,88.266003 -8.90884,0 0,-34.38773 c 0,-3.49921 -0.81876,-6.51106 -2.44651,-9.02581 -1.88119,-2.84615 -4.49342,-4.26923 -7.84641,-4.26923 -4.08404,0 -9.19152,2.15411 -15.32242,6.46233 l 0,41.22044 -8.90885,0 0,-82.1972101 8.90885,-2.80716 0,37.4385701 c 5.6923,-4.14251 11.91093,-6.21864 18.66566,-6.21864 4.7176,0 8.53846,1.58877 11.46258,4.75658 2.93388,3.1678 4.39594,7.11537 4.39594,11.83296 l 0,37.1949 0,0 z"
+             id="path14194"
+             style="fill:#646464;fill-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 346.70059,60.525783 c 0,-5.59483 -1.06242,-10.21495 -3.17755,-13.87011 -2.51474,-4.45442 -6.42332,-6.80347 -11.70625,-7.04715 -9.76658,0.56534 -14.64012,7.56375 -14.64012,20.97574 0,6.15042 1.01369,11.28713 3.06057,15.41015 2.61223,5.25368 6.53056,7.84641 11.755,7.75869 9.80557,-0.07798 14.70835,-7.81717 14.70835,-23.22732 z m 9.75685,0.05848 c 0,7.96338 -2.03714,14.5914 -6.10168,19.88407 -4.47391,5.92623 -10.65357,8.89909 -18.53897,8.89909 -7.81716,0 -13.90909,-2.97286 -18.30503,-8.89909 -3.98656,-5.29267 -5.97497,-11.92069 -5.97497,-19.88407 0,-7.48576 2.15411,-13.78238 6.46232,-18.90935 4.5519,-5.43888 10.53661,-8.16806 17.93464,-8.16806 7.39805,0 13.42174,2.72918 18.06137,8.16806 4.3082,5.12697 6.46232,11.42359 6.46232,18.90935 z"
+             id="path14196"
+             style="fill:#646464;fill-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 407.53218,88.266003 -8.90884,0 0,-36.33715 c 0,-3.98656 -1.19889,-7.09588 -3.59667,-9.33772 -2.39779,-2.23208 -5.59483,-3.31401 -9.58139,-3.22628 -4.23023,0.07798 -8.25579,1.46206 -12.07664,4.14251 l 0,44.75864 -8.90884,0 0,-45.86006 c 5.12697,-3.73313 9.84456,-6.16991 14.15276,-7.31032 4.06455,-1.06243 7.65148,-1.58877 10.74131,-1.58877 2.11512,0 4.10352,0.20469 5.97496,0.61406 3.49921,0.80901 6.34535,2.31006 8.53845,4.51291 2.44651,2.43677 3.6649,5.3609 3.6649,8.78212 l 0,40.85006 z"
+             id="path14198"
+             style="fill:#646464;fill-opacity:1" />
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="M 107.59375,0 C 74.969981,0 48.572931,9.593118 28.500001,28.6875 9.501691,46.686855 0,68.782099 0,95.0625 c 0,27.95719 8.76385,51.23143 26.343751,69.8125 19.38518,20.80534 46.2467,31.25 80.718749,31.25 34.77298,0 62.02099,-10.44466 81.75,-31.25 5.28096,-5.47462 9.77236,-11.3677 13.5,-17.65625 l -40.1875,0 c -10.40946,19.29518 -28.49867,29.02426 -54.28125,29.1875 -23.038689,0.30796 -40.324359,-8.80579 -51.843749,-27.25 -9.02632,-14.47476 -13.5,-32.50135 -13.5,-54.09375 0,-47.085733 21.49392,-71.671499 64.562499,-73.65625 23.29663,0.855493 40.53553,9.111781 51.625,24.750001 2.11114,2.904448 3.95875,5.998052 5.59375,9.25 l 42.78125,0 C 202.36242,45.663815 195.74812,36.768402 187.21875,28.6875 166.75895,9.593117 140.21761,0 107.59375,0 Z"
+           id="path14200"
+           style="fill:#646464;fill-opacity:1" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Koruri;-inkscape-font-specification:Koruri;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="50"
+       y="100"
+       id="text15770"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="50"
+         y="100"
+         id="tspan15774"
+         style="font-size:40px"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Koruri;-inkscape-font-specification:'Koruri Bold'"
+   id="tspan15778">Cython:</tspan>C Extension for Python</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:150%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="100"
+       y="150"
+       id="text5736"
+       sodipodi:linespacing="150%"><tspan
+         sodipodi:role="line"
+         x="100"
+         y="150"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:150%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan5757">- Python likeな構文で記述するとCを出力するライブラリ</tspan><tspan
+         sodipodi:role="line"
+         x="100"
+         y="187.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:150%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan5832">- setup.pyに記述すればbuildまでしてくれる</tspan><tspan
+         sodipodi:role="line"
+         x="100"
+         y="225"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:150%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan5838">- 実はIPythonでも叩ける</tspan><tspan
+         sodipodi:role="line"
+         x="100"
+         y="262.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:150%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan6468">- 内部的にはC Extensionを生成している</tspan><tspan
+         sodipodi:role="line"
+         x="100"
+         y="300"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:150%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan5836">- <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:150%;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'"
+   id="tspan5840">かなりおすすめ</tspan></tspan></text>
+    <g
+       id="g6414"
+       transform="translate(0,25.172291)">
+      <rect
+         y="288.6127"
+         x="119.87447"
+         height="123.01255"
+         width="446.86191"
+         id="rect6205"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#008000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="matrix(1.1373283,0,0,1.1373283,130,294.0774)"
+         style="font-size:14px;font-family:monospace"
+         font-size="14px"
+         id="g6124">
+        <text
+           x="0"
+           y="14"
+           xml:space="preserve"
+           id="text6126"><tspan
+   style="font-weight:bold;fill:#008000"
+   font-weight="bold"
+   id="tspan6128">cimport</tspan> <tspan
+   style="font-weight:bold;fill:#0000ff"
+   font-weight="bold"
+   id="tspan6130">libc.stdio</tspan></text>
+        <text
+           x="0"
+           y="33"
+           xml:space="preserve"
+           id="text6132" />
+        <text
+           x="0"
+           y="52"
+           xml:space="preserve"
+           id="text6134"><tspan
+   style="font-weight:bold;fill:#008000"
+   font-weight="bold"
+   id="tspan6136">def</tspan> <tspan
+   style="fill:#0000ff"
+   id="tspan6138">hello</tspan>(name: <tspan
+   style="fill:#008000"
+   id="tspan6140">str</tspan>):</text>
+        <text
+           x="0"
+           y="71"
+           xml:space="preserve"
+           id="text6142">    <tspan
+   style="font-weight:bold;fill:#008000"
+   font-weight="bold"
+   id="tspan6144">cdef</tspan> <tspan
+   style="fill:#b00040"
+   id="tspan6146">bytes</tspan> <tspan
+   style="fill:#0000ff"
+   id="tspan6148">name_c</tspan> <tspan
+   style="fill:#666666"
+   id="tspan6150">=</tspan> name<tspan
+   style="fill:#666666"
+   id="tspan6152">.</tspan>encode()</text>
+        <text
+           x="0"
+           y="90"
+           xml:space="preserve"
+           id="text6154">    libc<tspan
+   style="fill:#666666"
+   id="tspan6156">.</tspan>stdio<tspan
+   style="fill:#666666"
+   id="tspan6158">.</tspan>printf(b<tspan
+   style="fill:#ba2121"
+   id="tspan6160">&quot;</tspan><tspan
+   style="fill:#ba2121"
+   id="tspan6162">hello </tspan><tspan
+   style="font-weight:bold;fill:#bb6688"
+   font-weight="bold"
+   id="tspan6164">%s</tspan><tspan
+   style="fill:#ba2121"
+   id="tspan6166">!</tspan><tspan
+   style="font-weight:bold;fill:#bb6622"
+   font-weight="bold"
+   id="tspan6168">\n</tspan><tspan
+   style="fill:#ba2121"
+   id="tspan6170">&quot;</tspan>, name_c)</text>
+        <text
+           x="0"
+           y="109"
+           xml:space="preserve"
+           id="text6172" />
+      </g>
+    </g>
+    <g
+       id="g6442"
+       transform="translate(0,20)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#008000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6235"
+         width="446.86191"
+         height="147.48953"
+         x="119.87447"
+         y="426.06039" />
+      <g
+         transform="translate(130,436)"
+         style="font-size:14px;font-family:monospace"
+         font-size="14px"
+         id="g6312">
+        <text
+           x="0"
+           y="14"
+           xml:space="preserve"
+           id="text6314"><tspan
+   style="font-weight:bold;fill:#008000"
+   font-weight="bold"
+   id="tspan6316">from</tspan> <tspan
+   style="font-weight:bold;fill:#0000ff"
+   font-weight="bold"
+   id="tspan6318">distutils.core</tspan> <tspan
+   style="font-weight:bold;fill:#008000"
+   font-weight="bold"
+   id="tspan6320">import</tspan> setup</text>
+        <text
+           x="0"
+           y="33"
+           xml:space="preserve"
+           id="text6322"><tspan
+   style="font-weight:bold;fill:#008000"
+   font-weight="bold"
+   id="tspan6324">from</tspan> <tspan
+   style="font-weight:bold;fill:#0000ff"
+   font-weight="bold"
+   id="tspan6326">Cython.Build</tspan> <tspan
+   style="font-weight:bold;fill:#008000"
+   font-weight="bold"
+   id="tspan6328">import</tspan> cythonize</text>
+        <text
+           x="0"
+           y="52"
+           xml:space="preserve"
+           id="text6330" />
+        <text
+           x="0"
+           y="71"
+           xml:space="preserve"
+           id="text6332">setup(</text>
+        <text
+           x="0"
+           y="90"
+           xml:space="preserve"
+           id="text6334">    name<tspan
+   style="fill:#666666"
+   id="tspan6336">=</tspan><tspan
+   style="fill:#ba2121"
+   id="tspan6338">&quot;</tspan><tspan
+   style="fill:#ba2121"
+   id="tspan6340">hello</tspan><tspan
+   style="fill:#ba2121"
+   id="tspan6342">&quot;</tspan>,</text>
+        <text
+           x="0"
+           y="109"
+           xml:space="preserve"
+           id="text6344">    ext_modules<tspan
+   style="fill:#666666"
+   id="tspan6346">=</tspan>cythonize(<tspan
+   style="fill:#ba2121"
+   id="tspan6348">&quot;</tspan><tspan
+   style="fill:#ba2121"
+   id="tspan6350">hello.pyx</tspan><tspan
+   style="fill:#ba2121"
+   id="tspan6352">&quot;</tspan>),</text>
+        <text
+           x="0"
+           y="128"
+           xml:space="preserve"
+           id="text6354">)</text>
+        <text
+           x="0"
+           y="147"
+           xml:space="preserve"
+           id="text6356" />
+      </g>
+    </g>
+  </g>
+  <g
      style="display:none"
-     inkscape:label="example 1 copy copy copy 1 copy"
+     inkscape:label="c extension"
      id="g9064"
      inkscape:groupmode="layer">
     <text
@@ -3190,16 +3581,11 @@
          y="325"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:175%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
          id="tspan15791">　- CPythonの指定する関数を.dll/.soに生やす</tspan><tspan
-         sodipodi:role="line"
-         x="100"
-         y="368.75"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:175%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         id="tspan15793">　- setup.pyを叩くとビルドが走る(Makefileの代替)</tspan><tspan
          id="tspan9082"
          sodipodi:role="line"
          x="100"
-         y="412.5"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:175%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa" /></text>
+         y="368.75"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:175%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa">　- setup.pyを叩くとbuildが走る</tspan></text>
     <a
        transform="translate(0,-140)"
        id="a9084"
@@ -3585,232 +3971,514 @@
          y="546"
          x="0" />
     </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="g7260"
-     inkscape:label="example 1 copy copy copy"
-     style="display:none">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61299992;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="50"
-       y="95"
-       id="text7262"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#008000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="630"
+       y="530"
+       id="text6472"><tspan
          sodipodi:role="line"
-         id="tspan7264"
+         id="tspan6474"
+         x="630"
+         y="530"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;fill:#1a1a1a;stroke:none">…('A`)</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="chap2 copy copy"
+     id="g7157"
+     inkscape:groupmode="layer">
+    <text
+       id="text7159"
+       y="100"
+       x="50"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Light';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#aaccff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61299992;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Koruri;-inkscape-font-specification:'Koruri Bold';text-align:start;text-anchor:start;fill:#1a1a1a"
+         y="100"
          x="50"
-         y="95"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold';text-align:start;text-anchor:start">Python C Extensionはめんどくさい</tspan></text>
+         sodipodi:role="line"
+         id="tspan7161">CとPythonを組み合わせる方法(まとめ)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="100"
+       y="160"
+       id="text7163"
+       sodipodi:linespacing="135%"><tspan
+         id="tspan7165"
+         sodipodi:role="line"
+         x="100"
+         y="160"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'">1. ctypes:</tspan></text>
     <text
        sodipodi:linespacing="135%"
-       id="text7280"
-       y="160"
+       id="text7168"
+       y="400"
        x="100"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'"
-         y="160"
+         y="400"
          x="100"
          sodipodi:role="line"
-         id="tspan7290">- Python2,3で仕様が違う</tspan><tspan
-         id="tspan11009"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         y="193.75"
-         x="100"
-         sodipodi:role="line">- 参照カウンタを自分で管理しなければならない</tspan><tspan
-         id="tspan10738"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         y="227.5"
-         x="100"
-         sodipodi:role="line">- 単調な記述，type数が多い</tspan></text>
-    <g
-       id="g12586"
-       ns1:effectIn="name:appear;order:2;length:800">
-      <text
-         xml:space="preserve"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         x="400.06958"
-         y="384.01675"
-         id="text10742"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           x="400.06958"
-           y="384.01675"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:center;text-anchor:middle"
-           id="tspan10746">↓</tspan><tspan
-           sodipodi:role="line"
-           x="400.06958"
-           y="440.26675"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:center;text-anchor:middle"
-           id="tspan10748">　　　　を使おう</tspan></text>
-      <g
-         id="g11020"
-         transform="matrix(0.47698861,0,0,0.47698861,188.8261,379.21258)">
-        <path
-           style="opacity:0.44382019;fill:url(#radialGradient1480-0);fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path1894"
-           transform="matrix(0.73406,0,0,0.809524,58.972752,63.796144)"
-           d="m 110.46717,132.28575 a 48.948285,8.606683 0 1 1 -97.896571,0 48.948285,8.606683 0 1 1 97.896571,0 z"
-           inkscape:connector-curvature="0" />
-        <g
-           id="g3206"
-           transform="matrix(1.1081583,0,0,1.1081583,-5.641244,-12.285301)">
-          <path
-             style="fill:url(#linearGradient3210);fill-opacity:1"
-             id="path1948"
-             d="m 103.60839,43.38407 c -4.583656,0.0213 -8.960942,0.412218 -12.812503,1.09375 -11.346216,2.004504 -13.406249,6.200102 -13.40625,13.9375 l 0,10.21875 26.812503,0 0,3.40625 -26.812503,0 -10.0625,0 c -7.792459,0 -14.615759,4.683717 -16.75,13.59375 -2.46182,10.212966 -2.571015,16.58602 0,27.25 1.905928,7.93785 6.457543,13.59375 14.25,13.59375 l 9.21875,0 0,-12.25 c 0,-8.8499 7.657144,-16.656248 16.75,-16.65625 l 26.781253,0 c 7.45495,0 13.40625,-6.138164 13.40625,-13.625 l 0,-25.53125 c 0,-7.266339 -6.12998,-12.724778 -13.40625,-13.9375 -4.60599,-0.766725 -9.3851,-1.115048 -13.96875,-1.09375 z m -14.500003,8.21875 c 2.769547,0 5.03125,2.298646 5.03125,5.125 -2e-6,2.816336 -2.261703,5.09375 -5.03125,5.09375 -2.779476,-1e-6 -5.03125,-2.277415 -5.03125,-5.09375 -10e-7,-2.826353 2.251774,-5.125 5.03125,-5.125 z"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:url(#linearGradient3212);fill-opacity:1"
-             id="path1950"
-             d="m 134.32714,72.04032 0,11.90625 c 0,9.230755 -7.8259,17 -16.75,17 l -26.781253,0 c -7.335833,0 -13.406249,6.27848 -13.40625,13.625 l 0,25.53125 c 0,7.26634 6.318588,11.54032 13.40625,13.625 8.487331,2.49561 16.626233,2.94663 26.781253,0 6.75015,-1.95439 13.40625,-5.88761 13.40625,-13.625 l 0,-10.21875 -26.78125,0 0,-3.40625 26.78125,0 13.40625,0 c 7.79246,0 10.69625,-5.43541 13.40624,-13.59375 2.79933,-8.39889 2.68022,-16.475776 0,-27.25 -1.92578,-7.757441 -5.60387,-13.59375 -13.40624,-13.59375 l -10.0625,0 z m -15.0625,64.65625 c 2.77948,0 5.03125,2.27742 5.03125,5.09375 -1e-5,2.82635 -2.25178,5.125 -5.03125,5.125 -2.76955,0 -5.03125,-2.29865 -5.03125,-5.125 0,-2.81633 2.26169,-5.09375 5.03125,-5.09375 z"
-             inkscape:connector-curvature="0" />
-        </g>
-        <g
-           id="g3179"
-           transform="translate(32.006378,36.786794)">
-          <path
-             style="fill:#646464;fill-opacity:1"
-             id="path48"
-             d="m 210.63122,83.265743 c 0,9.92254 -0.9942,16.794237 -2.9826,20.615097 -1.99816,3.82086 -5.79952,6.8717 -11.41385,9.14277 -4.55189,1.79346 -9.47417,2.76817 -14.75709,2.93387 l -1.47181,-5.61432 c 5.37064,-0.73103 9.15252,-1.46207 11.34561,-2.1931 4.31796,-1.46206 7.28108,-3.70389 8.90884,-6.706 1.30611,-2.446517 1.94942,-7.115367 1.94942,-14.026057 l 0,-2.3198 c -6.09193,2.76817 -12.47628,4.14251 -19.15303,4.14251 -4.38619,0 -8.25579,-1.37434 -11.58929,-4.14251 -3.74289,-3.01186 -5.61433,-6.83272 -5.61433,-11.46258 l 0,-37.07793 8.90884,-3.05084 0,37.3216 c 0,3.98656 1.28662,7.0569 3.85985,9.21101 2.57323,2.1541 5.90674,3.18729 9.99077,3.10932 4.08403,-0.08773 8.46047,-1.66676 13.10983,-4.75658 l 0,-43.54025 8.90884,0 0,48.41379 z"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:#646464;fill-opacity:1"
-             id="path50"
-             d="m 245.40884,88.997033 c -1.06243,0.08772 -2.03714,0.12671 -2.93387,0.12671 -5.03925,0 -8.96733,-1.19889 -11.77449,-3.60642 -2.79742,-2.40753 -4.20099,-5.73129 -4.20099,-9.97127 l 0,-35.08953 -6.10168,0 0,-5.60457 6.10168,0 0,-14.88381 8.89909,-3.16781 0,18.05162 10.01026,0 0,5.60457 -10.01026,0 0,34.84585 c 0,3.34325 0.89673,5.71179 2.6902,7.09588 1.54004,1.14041 3.98656,1.79347 7.32006,1.95917 l 0,4.63961 z"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:#646464;fill-opacity:1"
-             id="path52"
-             d="m 299.34923,88.266003 -8.90884,0 0,-34.38773 c 0,-3.49921 -0.81876,-6.51106 -2.44651,-9.02581 -1.88119,-2.84615 -4.49342,-4.26923 -7.84641,-4.26923 -4.08404,0 -9.19152,2.15411 -15.32242,6.46233 l 0,41.22044 -8.90885,0 0,-82.1972101 8.90885,-2.80716 0,37.4385701 c 5.6923,-4.14251 11.91093,-6.21864 18.66566,-6.21864 4.7176,0 8.53846,1.58877 11.46258,4.75658 2.93388,3.1678 4.39594,7.11537 4.39594,11.83296 l 0,37.1949 0,0 z"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:#646464;fill-opacity:1"
-             id="path54"
-             d="m 346.70059,60.525783 c 0,-5.59483 -1.06242,-10.21495 -3.17755,-13.87011 -2.51474,-4.45442 -6.42332,-6.80347 -11.70625,-7.04715 -9.76658,0.56534 -14.64012,7.56375 -14.64012,20.97574 0,6.15042 1.01369,11.28713 3.06057,15.41015 2.61223,5.25368 6.53056,7.84641 11.755,7.75869 9.80557,-0.07798 14.70835,-7.81717 14.70835,-23.22732 z m 9.75685,0.05848 c 0,7.96338 -2.03714,14.5914 -6.10168,19.88407 -4.47391,5.92623 -10.65357,8.89909 -18.53897,8.89909 -7.81716,0 -13.90909,-2.97286 -18.30503,-8.89909 -3.98656,-5.29267 -5.97497,-11.92069 -5.97497,-19.88407 0,-7.48576 2.15411,-13.78238 6.46232,-18.90935 4.5519,-5.43888 10.53661,-8.16806 17.93464,-8.16806 7.39805,0 13.42174,2.72918 18.06137,8.16806 4.3082,5.12697 6.46232,11.42359 6.46232,18.90935 z"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:#646464;fill-opacity:1"
-             id="path56"
-             d="m 407.53218,88.266003 -8.90884,0 0,-36.33715 c 0,-3.98656 -1.19889,-7.09588 -3.59667,-9.33772 -2.39779,-2.23208 -5.59483,-3.31401 -9.58139,-3.22628 -4.23023,0.07798 -8.25579,1.46206 -12.07664,4.14251 l 0,44.75864 -8.90884,0 0,-45.86006 c 5.12697,-3.73313 9.84456,-6.16991 14.15276,-7.31032 4.06455,-1.06243 7.65148,-1.58877 10.74131,-1.58877 2.11512,0 4.10352,0.20469 5.97496,0.61406 3.49921,0.80901 6.34535,2.31006 8.53845,4.51291 2.44651,2.43677 3.6649,5.3609 3.6649,8.78212 l 0,40.85006 z"
-             inkscape:connector-curvature="0" />
-        </g>
-        <path
-           style="fill:#646464;fill-opacity:1"
-           id="path2196"
-           d="M 107.59375,0 C 74.969981,0 48.572931,9.593118 28.500001,28.6875 9.501691,46.686855 0,68.782099 0,95.0625 c 0,27.95719 8.76385,51.23143 26.343751,69.8125 19.38518,20.80534 46.2467,31.25 80.718749,31.25 34.77298,0 62.02099,-10.44466 81.75,-31.25 5.28096,-5.47462 9.77236,-11.3677 13.5,-17.65625 l -40.1875,0 c -10.40946,19.29518 -28.49867,29.02426 -54.28125,29.1875 -23.038689,0.30796 -40.324359,-8.80579 -51.843749,-27.25 -9.02632,-14.47476 -13.5,-32.50135 -13.5,-54.09375 0,-47.085733 21.49392,-71.671499 64.562499,-73.65625 23.29663,0.855493 40.53553,9.111781 51.625,24.750001 2.11114,2.904448 3.95875,5.998052 5.59375,9.25 l 42.78125,0 C 202.36242,45.663815 195.74812,36.768402 187.21875,28.6875 166.75895,9.593117 140.21761,0 107.59375,0 Z"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <text
+         id="tspan7170">3. C Extension</tspan></text>
+    <rect
        ns1:effectIn="name:appear;order:1;length:800"
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="400.06958"
-       y="308.70294"
-       id="text11013"
-       sodipodi:linespacing="125%"><tspan
+       y="250"
+       x="90"
+       height="110"
+       width="340"
+       id="rect11986"
+       style="opacity:1;fill:#ffd5d5;fill-opacity:1;fill-rule:nonzero;stroke:#800000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="135%"
+       id="text7172"
+       y="279.70703"
+       x="100"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         id="tspan7174"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'"
+         y="279.70703"
+         x="100"
+         sodipodi:role="line">2. Cython:</tspan></text>
+    <text
+       sodipodi:linespacing="135%"
+       id="text7176"
+       y="190"
+       x="150"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         y="190"
+         x="150"
          sodipodi:role="line"
-         x="400.06958"
-         y="308.70294"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:center;text-anchor:middle"
-         id="tspan11017">:fu:</tspan></text>
+         id="tspan7178">簡単だけど低機能</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="150"
+       y="310"
+       id="text7180"
+       sodipodi:linespacing="135%"><tspan
+         id="tspan7182"
+         sodipodi:role="line"
+         x="150"
+         y="310"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa">そこそこ手軽で高機能</tspan><tspan
+         sodipodi:role="line"
+         x="150"
+         y="343.75"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan7188">おすすめ</tspan></text>
+    <text
+       sodipodi:linespacing="135%"
+       id="text7184"
+       y="430"
+       x="150"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:135.00000238%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         y="430"
+         x="150"
+         sodipodi:role="line"
+         id="tspan7186">物好き向け</tspan></text>
   </g>
   <g
-     inkscape:label="example 1 copy copy copy 2"
-     id="layer14"
      inkscape:groupmode="layer"
-     style="display:inline">
+     id="g6476"
+     inkscape:label="chap2 copy 1"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Light';text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;opacity:1;fill:#aaccff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61299992;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="400"
+       y="280"
+       id="text6478"><tspan
+         id="tspan6480"
+         sodipodi:role="line"
+         x="400"
+         y="280"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;font-family:Koruri;-inkscape-font-specification:'Koruri Bold';text-align:center;text-anchor:middle;fill:#1a1a1a">私の事例紹介</tspan></text>
+  </g>
+  <g
+     style="display:none"
+     inkscape:label="example 1"
+     id="layer12"
+     inkscape:groupmode="layer">
+    <text
+       id="text12623"
+       y="95"
+       x="30"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61299992;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:start;text-anchor:start"
+         y="95"
+         x="30"
+         id="tspan12625"
+         sodipodi:role="line"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'"
+   id="tspan12629">その1:</tspan> Python + C++ with Cython</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text12643"
+       y="145"
+       x="50"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         y="145"
+         x="50"
+         sodipodi:role="line"
+         id="tspan7246"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'"
+   id="tspan12725">目的:</tspan>既存のソルバーを拡張してPythonから使いたい</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         y="176.25"
+         x="50"
+         sodipodi:role="line"
+         id="tspan7072">　　(ex. SATソルバーを拡張してプライバシー評価で使いたい)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="75"
+       y="450"
+       id="text12661"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="75"
+         y="450"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'"
+         id="tspan7063">C++:</tspan><tspan
+         sodipodi:role="line"
+         x="75"
+         y="481.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan7256">　- 既存のソルバーの実装はC++であることが多い</tspan><tspan
+         sodipodi:role="line"
+         x="75"
+         y="512.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan7248">　- 既存のソルバー(Minisat)の拡張が必要</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="75"
+       y="350"
+       id="text12669"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12671"
+         x="75"
+         y="350"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'">Python:</tspan><tspan
+         id="tspan12675"
+         sodipodi:role="line"
+         x="75"
+         y="381.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa">　- これまでの実験コードがすべてPython</tspan><tspan
+         sodipodi:role="line"
+         x="75"
+         y="412.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan12713">　- Jupyter notebookで実験している</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text12727"
+       y="240"
+       x="50"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         id="tspan12735"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold';text-align:start;text-anchor:start"
+         y="240"
+         x="50"
+         sodipodi:role="line">背景</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="375"
+       y="560"
+       id="text7005"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan7007"
+         sodipodi:role="line"
+         x="375"
+         y="560"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:center;text-anchor:middle"><tspan
+           id="tspan7009"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold';text-align:center;text-anchor:middle">PythonからC++を呼び出せるようにしよう</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text13762"
+       y="280"
+       x="75"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         id="tspan13768"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         y="280"
+         x="75"
+         sodipodi:role="line">あるリスクを評価することが充足可能性問題に帰着(ALLSAT)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         y="311.25"
+         x="75"
+         sodipodi:role="line"
+         id="tspan13775">→既存のソルバーを使用したい</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="example 1-component"
+     style="display:none">
+    <path
+       style="opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker13785)"
+       d="m 105,410 0,-60"
+       id="path13783"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <g
-       id="g14170"
-       style="display:inline"
-       transform="matrix(0.89839511,0,0,0.89839511,430.13601,169.00436)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text14172"
-         y="384.01675"
-         x="400.06958"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         xml:space="preserve"><tspan
-           id="tspan14176"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:center;text-anchor:middle"
-           y="384.01675"
-           x="400.06958"
-           sodipodi:role="line" /></text>
+       id="g7095"
+       transform="translate(-5,0)">
       <g
-         transform="matrix(0.47698861,0,0,0.47698861,188.8261,379.21258)"
-         id="g14178">
-        <path
-           inkscape:connector-curvature="0"
-           d="m 110.46717,132.28575 a 48.948285,8.6066835 0 1 1 -97.896571,0 48.948285,8.6066835 0 1 1 97.896571,0 z"
-           transform="matrix(0.73406,0,0,0.809524,58.972752,63.796144)"
-           id="path14180"
-           style="opacity:0.44382019;fill:url(#radialGradient15780);fill-opacity:1;fill-rule:nonzero;stroke:none" />
-        <g
-           transform="matrix(1.1081583,0,0,1.1081583,-5.641244,-12.285301)"
-           id="g14182">
-          <path
-             inkscape:connector-curvature="0"
-             d="m 103.60839,43.38407 c -4.583656,0.0213 -8.960942,0.412218 -12.812503,1.09375 -11.346216,2.004504 -13.406249,6.200102 -13.40625,13.9375 l 0,10.21875 26.812503,0 0,3.40625 -26.812503,0 -10.0625,0 c -7.792459,0 -14.615759,4.683717 -16.75,13.59375 -2.46182,10.212966 -2.571015,16.58602 0,27.25 1.905928,7.93785 6.457543,13.59375 14.25,13.59375 l 9.21875,0 0,-12.25 c 0,-8.8499 7.657144,-16.656248 16.75,-16.65625 l 26.781253,0 c 7.45495,0 13.40625,-6.138164 13.40625,-13.625 l 0,-25.53125 c 0,-7.266339 -6.12998,-12.724778 -13.40625,-13.9375 -4.60599,-0.766725 -9.3851,-1.115048 -13.96875,-1.09375 z m -14.500003,8.21875 c 2.769547,0 5.03125,2.298646 5.03125,5.125 -2e-6,2.816336 -2.261703,5.09375 -5.03125,5.09375 -2.779476,-1e-6 -5.03125,-2.277415 -5.03125,-5.09375 -10e-7,-2.826353 2.251774,-5.125 5.03125,-5.125 z"
-             id="path14184"
-             style="fill:url(#linearGradient15782);fill-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             d="m 134.32714,72.04032 0,11.90625 c 0,9.230755 -7.8259,17 -16.75,17 l -26.781253,0 c -7.335833,0 -13.406249,6.27848 -13.40625,13.625 l 0,25.53125 c 0,7.26634 6.318588,11.54032 13.40625,13.625 8.487331,2.49561 16.626233,2.94663 26.781253,0 6.75015,-1.95439 13.40625,-5.88761 13.40625,-13.625 l 0,-10.21875 -26.78125,0 0,-3.40625 26.78125,0 13.40625,0 c 7.79246,0 10.69625,-5.43541 13.40624,-13.59375 2.79933,-8.39889 2.68022,-16.475776 0,-27.25 -1.92578,-7.757441 -5.60387,-13.59375 -13.40624,-13.59375 l -10.0625,0 z m -15.0625,64.65625 c 2.77948,0 5.03125,2.27742 5.03125,5.09375 -1e-5,2.82635 -2.25178,5.125 -5.03125,5.125 -2.76955,0 -5.03125,-2.29865 -5.03125,-5.125 0,-2.81633 2.26169,-5.09375 5.03125,-5.09375 z"
-             id="path14186"
-             style="fill:url(#linearGradient15784);fill-opacity:1" />
-        </g>
-        <g
-           transform="translate(32.006378,36.786794)"
-           id="g14188">
-          <path
-             inkscape:connector-curvature="0"
-             d="m 210.63122,83.265743 c 0,9.92254 -0.9942,16.794237 -2.9826,20.615097 -1.99816,3.82086 -5.79952,6.8717 -11.41385,9.14277 -4.55189,1.79346 -9.47417,2.76817 -14.75709,2.93387 l -1.47181,-5.61432 c 5.37064,-0.73103 9.15252,-1.46207 11.34561,-2.1931 4.31796,-1.46206 7.28108,-3.70389 8.90884,-6.706 1.30611,-2.446517 1.94942,-7.115367 1.94942,-14.026057 l 0,-2.3198 c -6.09193,2.76817 -12.47628,4.14251 -19.15303,4.14251 -4.38619,0 -8.25579,-1.37434 -11.58929,-4.14251 -3.74289,-3.01186 -5.61433,-6.83272 -5.61433,-11.46258 l 0,-37.07793 8.90884,-3.05084 0,37.3216 c 0,3.98656 1.28662,7.0569 3.85985,9.21101 2.57323,2.1541 5.90674,3.18729 9.99077,3.10932 4.08403,-0.08773 8.46047,-1.66676 13.10983,-4.75658 l 0,-43.54025 8.90884,0 0,48.41379 z"
-             id="path14190"
-             style="fill:#646464;fill-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             d="m 245.40884,88.997033 c -1.06243,0.08772 -2.03714,0.12671 -2.93387,0.12671 -5.03925,0 -8.96733,-1.19889 -11.77449,-3.60642 -2.79742,-2.40753 -4.20099,-5.73129 -4.20099,-9.97127 l 0,-35.08953 -6.10168,0 0,-5.60457 6.10168,0 0,-14.88381 8.89909,-3.16781 0,18.05162 10.01026,0 0,5.60457 -10.01026,0 0,34.84585 c 0,3.34325 0.89673,5.71179 2.6902,7.09588 1.54004,1.14041 3.98656,1.79347 7.32006,1.95917 l 0,4.63961 z"
-             id="path14192"
-             style="fill:#646464;fill-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             d="m 299.34923,88.266003 -8.90884,0 0,-34.38773 c 0,-3.49921 -0.81876,-6.51106 -2.44651,-9.02581 -1.88119,-2.84615 -4.49342,-4.26923 -7.84641,-4.26923 -4.08404,0 -9.19152,2.15411 -15.32242,6.46233 l 0,41.22044 -8.90885,0 0,-82.1972101 8.90885,-2.80716 0,37.4385701 c 5.6923,-4.14251 11.91093,-6.21864 18.66566,-6.21864 4.7176,0 8.53846,1.58877 11.46258,4.75658 2.93388,3.1678 4.39594,7.11537 4.39594,11.83296 l 0,37.1949 0,0 z"
-             id="path14194"
-             style="fill:#646464;fill-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             d="m 346.70059,60.525783 c 0,-5.59483 -1.06242,-10.21495 -3.17755,-13.87011 -2.51474,-4.45442 -6.42332,-6.80347 -11.70625,-7.04715 -9.76658,0.56534 -14.64012,7.56375 -14.64012,20.97574 0,6.15042 1.01369,11.28713 3.06057,15.41015 2.61223,5.25368 6.53056,7.84641 11.755,7.75869 9.80557,-0.07798 14.70835,-7.81717 14.70835,-23.22732 z m 9.75685,0.05848 c 0,7.96338 -2.03714,14.5914 -6.10168,19.88407 -4.47391,5.92623 -10.65357,8.89909 -18.53897,8.89909 -7.81716,0 -13.90909,-2.97286 -18.30503,-8.89909 -3.98656,-5.29267 -5.97497,-11.92069 -5.97497,-19.88407 0,-7.48576 2.15411,-13.78238 6.46232,-18.90935 4.5519,-5.43888 10.53661,-8.16806 17.93464,-8.16806 7.39805,0 13.42174,2.72918 18.06137,8.16806 4.3082,5.12697 6.46232,11.42359 6.46232,18.90935 z"
-             id="path14196"
-             style="fill:#646464;fill-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             d="m 407.53218,88.266003 -8.90884,0 0,-36.33715 c 0,-3.98656 -1.19889,-7.09588 -3.59667,-9.33772 -2.39779,-2.23208 -5.59483,-3.31401 -9.58139,-3.22628 -4.23023,0.07798 -8.25579,1.46206 -12.07664,4.14251 l 0,44.75864 -8.90884,0 0,-45.86006 c 5.12697,-3.73313 9.84456,-6.16991 14.15276,-7.31032 4.06455,-1.06243 7.65148,-1.58877 10.74131,-1.58877 2.11512,0 4.10352,0.20469 5.97496,0.61406 3.49921,0.80901 6.34535,2.31006 8.53845,4.51291 2.44651,2.43677 3.6649,5.3609 3.6649,8.78212 l 0,40.85006 z"
-             id="path14198"
-             style="fill:#646464;fill-opacity:1" />
-        </g>
-        <path
-           inkscape:connector-curvature="0"
-           d="M 107.59375,0 C 74.969981,0 48.572931,9.593118 28.500001,28.6875 9.501691,46.686855 0,68.782099 0,95.0625 c 0,27.95719 8.76385,51.23143 26.343751,69.8125 19.38518,20.80534 46.2467,31.25 80.718749,31.25 34.77298,0 62.02099,-10.44466 81.75,-31.25 5.28096,-5.47462 9.77236,-11.3677 13.5,-17.65625 l -40.1875,0 c -10.40946,19.29518 -28.49867,29.02426 -54.28125,29.1875 -23.038689,0.30796 -40.324359,-8.80579 -51.843749,-27.25 -9.02632,-14.47476 -13.5,-32.50135 -13.5,-54.09375 0,-47.085733 21.49392,-71.671499 64.562499,-73.65625 23.29663,0.855493 40.53553,9.111781 51.625,24.750001 2.11114,2.904448 3.95875,5.998052 5.59375,9.25 l 42.78125,0 C 202.36242,45.663815 195.74812,36.768402 187.21875,28.6875 166.75895,9.593117 140.21761,0 107.59375,0 Z"
-           id="path14200"
-           style="fill:#646464;fill-opacity:1" />
+         transform="translate(-370,30)"
+         id="g7014">
+        <rect
+           style="opacity:1;fill:#d5f6ff;fill-opacity:1;fill-rule:nonzero;stroke:#003380;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect7016"
+           width="285"
+           height="135"
+           x="420"
+           y="190" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Ricty;-inkscape-font-specification:'Ricty Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#005500;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           x="435"
+           y="225"
+           id="text7018"><tspan
+             sodipodi:role="line"
+             id="tspan7020"
+             x="435"
+             y="225"
+             style="font-size:35px;fill:#003380;stroke:none">AllSATSolver</tspan></text>
+        <text
+           id="text7022"
+           y="270"
+           x="435"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Ricty;-inkscape-font-specification:'Ricty Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-size:25px;fill:#003380"
+             y="270"
+             x="435"
+             sodipodi:role="line"
+             id="tspan7024">- solver: MiniSAT</tspan><tspan
+             id="tspan7052"
+             style="font-size:25px;fill:#003380"
+             y="301.25"
+             x="435"
+             sodipodi:role="line">enumerate()</tspan><tspan
+             id="tspan7050"
+             style="font-size:25px;fill:#003380"
+             y="332.5"
+             x="435"
+             sodipodi:role="line" /></text>
       </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path7026"
+         d="m 50,270 285,0"
+         style="opacity:1;fill:#2d5016;fill-opacity:1;fill-rule:nonzero;stroke:#002255;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <path
+       style="opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4, 8;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 0,180 470,0"
+       id="path7074"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text7028"
+       y="180"
+       x="110"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Ricty;-inkscape-font-specification:'Ricty Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#005500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:30px"
+         y="180"
+         x="110"
+         id="tspan7030"
+         sodipodi:role="line">所有</tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path7032"
+       d="m 105,195 0,-60"
+       style="opacity:1;fill:#2d5016;fill-opacity:1;fill-rule:nonzero;stroke:#005500;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#DiamondMend)" />
+    <g
+       id="g7086"
+       transform="translate(-5,5)">
+      <g
+         transform="translate(-370,-155)"
+         id="g6987">
+        <rect
+           style="opacity:1;fill:#d5ffd5;fill-opacity:1;fill-rule:nonzero;stroke:#005500;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6989"
+           width="285"
+           height="100"
+           x="420"
+           y="190" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Ricty;-inkscape-font-specification:'Ricty Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#d5ffd5;fill-opacity:1;fill-rule:nonzero;stroke:#005500;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           x="435"
+           y="225"
+           id="text6991"><tspan
+             sodipodi:role="line"
+             id="tspan6993"
+             x="435"
+             y="225"
+             style="font-size:35px;fill:#2d5016;stroke:none">MiniSATSolver</tspan></text>
+        <text
+           id="text6995"
+           y="270"
+           x="435"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Ricty;-inkscape-font-specification:'Ricty Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#2d5016;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-size:25px"
+             y="270"
+             x="435"
+             sodipodi:role="line"
+             id="tspan6997">solve()</tspan></text>
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path6999"
+         d="m 50,85 285,0"
+         style="opacity:1;fill:#2d5016;fill-opacity:1;fill-rule:nonzero;stroke:#005500;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Koruri;-inkscape-font-specification:Koruri;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Ricty;-inkscape-font-specification:'Ricty Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#002255;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="60"
+       y="480"
+       id="text7054"><tspan
+         sodipodi:role="line"
+         id="tspan7056"
+         x="60"
+         y="480"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Ricty;-inkscape-font-specification:Ricty;stroke:none">solver = AllMiniSATSolver()</tspan><tspan
+         sodipodi:role="line"
+         x="60"
+         y="517.5"
+         id="tspan7060"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Ricty;-inkscape-font-specification:Ricty;stroke:none">solver.enumerate()</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Ricty;-inkscape-font-specification:'Ricty Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#005500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="365"
+       y="160"
+       id="text7076"><tspan
+         sodipodi:role="line"
+         id="tspan7078"
+         x="365"
+         y="160"
+         style="font-size:30px">C++</tspan></text>
+    <text
+       id="text7080"
+       y="220"
+       x="365"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Ricty;-inkscape-font-specification:'Ricty Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#005500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:30px"
+         y="220"
+         x="365"
+         id="tspan7082"
+         sodipodi:role="line">Cython</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path7084"
+       d="m 0,400 470,0"
+       style="opacity:1;fill:#003380;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:4, 8;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Ricty;-inkscape-font-specification:'Ricty Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#005500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="365"
+       y="440"
+       id="text7106"><tspan
+         sodipodi:role="line"
+         id="tspan7108"
+         x="365"
+         y="440"
+         style="font-size:30px">Python</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="example 1-good/bad"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61299992;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="50"
        y="100"
-       id="text15770"
-       sodipodi:linespacing="125%"><tspan
+       id="text14391"><tspan
          sodipodi:role="line"
+         id="tspan14393"
          x="50"
          y="100"
-         id="tspan15774"
-         style="font-size:40px"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Koruri;-inkscape-font-specification:'Koruri Bold'"
-   id="tspan15778">Cython:</tspan>C Extension for Python</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:start;text-anchor:start"><tspan
+           id="tspan14395"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'">Cythonをつかう上で</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="50"
+       y="145"
+       id="text14403"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan14409"
+         sodipodi:role="line"
+         x="50"
+         y="145"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa">- Cythonは基本Cが想定されているがC++も可能</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="176.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan14422">　- しかし，あまり充実してない(ドキュメントも実装も)</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="207.5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan14496">- Cythonには</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="238.75"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan14500">- Cythonの層はなるべく薄くすべき</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="270"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan14498">　- Cythonで</tspan></text>
+    <a
+       id="a14488"
+       xlink:href="https://github.com/cython/cython/tree/master/Cython/Includes/libcpp"
+       target="_blank"
+       transform="translate(180,220)">
+      <text
+         xml:space="preserve"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         x="480"
+         y="-40"
+         id="text14424"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan14432"
+           sodipodi:role="line"
+           x="480"
+           y="-40"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa">ref Cython libcpp</tspan></text>
+    </a>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -3821,12 +4489,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61299992;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="30"
-       y="95"
+       y="100"
        id="text6940"><tspan
          sodipodi:role="line"
          id="tspan6942"
          x="30"
-         y="95"
+         y="100"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-align:start;text-anchor:start"><tspan
    id="tspan6944"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'">その1:</tspan> Python+Rust</tspan></text>
@@ -3843,132 +4511,78 @@
          y="145"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"><tspan
    id="tspan6950"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'">目的:</tspan>NP困難な最適化問題を解く</tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'">目的:</tspan>NP困難な最適化問題を解く</tspan><tspan
+         sodipodi:role="line"
+         x="50"
+         y="176.25"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
+         id="tspan7110">　　(プライバシーを保護した機械学習予測器を作りたい)</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6952"
-       y="440"
+       y="420"
        x="100"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'"
-         y="440"
-         x="100"
-         id="tspan6954"
-         sodipodi:role="line">Rust:</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         y="471.25"
+         y="420"
          x="100"
          sodipodi:role="line"
-         id="tspan6956">　- 静的型</tspan><tspan
+         id="tspan6956">Rust:</tspan><tspan
          id="tspan6958"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         y="502.5"
+         y="451.25"
          x="100"
          sodipodi:role="line">　- 並列処理が書きやすい</tspan><tspan
          id="tspan6960"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         y="533.75"
+         y="482.5"
          x="100"
          sodipodi:role="line">　- Cと疎遠ないぐらいの速さ</tspan><tspan
          id="tspan6962"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         y="565"
+         y="513.75"
          x="100"
          sodipodi:role="line">　- 私が今一番好きな言語</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6964"
-       y="290"
+       y="270"
        x="100"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold'"
-         y="290"
+         y="270"
          x="100"
          id="tspan6966"
          sodipodi:role="line">Python:</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         y="321.25"
+         y="301.25"
          x="100"
          sodipodi:role="line"
          id="tspan6968">　- これまでの実験コードがすべてPython</tspan><tspan
          id="tspan6970"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         y="352.5"
+         y="332.5"
          x="100"
          sodipodi:role="line">　- Jupyter notebookで実験している</tspan><tspan
          id="tspan6972"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:Kazesawa"
-         y="383.75"
+         y="363.75"
          x="100"
          sodipodi:role="line">　- 実行速度がCと比べると非常に遅い</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125%;font-family:Kazesawa;-inkscape-font-specification:Kazesawa;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        x="50"
-       y="250"
+       y="230"
        id="text6974"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="50"
-         y="250"
+         y="230"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Kazesawa;-inkscape-font-specification:'Kazesawa Bold';text-align:start;text-anchor:start"
          id="tspan6976">背景</tspan></text>
-  </g>
-  <g
-     style="display:none"
-     inkscape:label="example"
-     id="layer7"
-     inkscape:groupmode="layer">
-    <text
-       id="text4349"
-       y="100"
-       x="50"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:80px;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Light';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#aaccff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61299992;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;font-family:Koruri;-inkscape-font-specification:'Koruri Bold';fill:#1a1a1a"
-         y="100"
-         x="50"
-         sodipodi:role="line"
-         id="tspan4351">私の例</tspan></text>
-    <text
-       sodipodi:linespacing="200%"
-       id="text6505-3"
-       y="-360"
-       x="150"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:200%;font-family:'Hiragino Kaku Gothic ProN';-inkscape-font-specification:'Hiragino Kaku Gothic ProN Light';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61299992;stroke-linejoin:round;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan4397"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:200%;font-family:Koruri;-inkscape-font-specification:Koruri;text-align:start;text-anchor:start"
-         y="-360"
-         x="150"
-         sodipodi:role="line">研究で離散最適化問題が現れた</tspan><tspan
-         id="tspan4411"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:200%;font-family:Koruri;-inkscape-font-specification:Koruri;text-align:start;text-anchor:start"
-         y="-300"
-         x="150"
-         sodipodi:role="line">(この問題が解けるとなぜかプライバシーが守られる機械学習アルゴリズムが設計できるらしい)</tspan><tspan
-         id="tspan4403"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:200%;font-family:Koruri;-inkscape-font-specification:Koruri;text-align:start;text-anchor:start"
-         y="-240"
-         x="150"
-         sodipodi:role="line">最初O((2^d)!)あった問題をいろいろがんばってO(8^d)まで落とした</tspan><tspan
-         id="tspan4405"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:200%;font-family:Koruri;-inkscape-font-specification:Koruri;text-align:start;text-anchor:start"
-         y="-180"
-         x="150"
-         sodipodi:role="line">応用だとd=10ぐらいを解きたい</tspan><tspan
-         id="tspan4415"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:200%;font-family:Koruri;-inkscape-font-specification:Koruri;text-align:start;text-anchor:start"
-         y="-120"
-         x="150"
-         sodipodi:role="line">Pythonだとd=6で30分掛かるd=10で44年!</tspan><tspan
-         id="tspan4395"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:200%;font-family:Koruri;-inkscape-font-specification:Koruri;text-align:start;text-anchor:start"
-         y="-60"
-         x="150"
-         sodipodi:role="line" /></text>
   </g>
   <g
      style="display:none"

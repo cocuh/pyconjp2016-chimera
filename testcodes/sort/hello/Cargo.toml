@@ -1,0 +1,13 @@
+[package]
+name = "helloyoujo"
+version = "0.1.0"
+authors = ["Kosuke Kusano <cocuh.kk@gmail.com>"]
+
+[dependencies.cpython]
+git = "https://github.com/dgrunwald/rust-cpython.git"
+default-features = false
+features = ["python3-sys"]
+
+[lib]
+name="helloyoujo"
+crate-type=["dylib"]
